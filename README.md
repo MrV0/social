@@ -1,0 +1,1 @@
+Go to Config.php and change the parameter of the  con variable so you connect to the database
